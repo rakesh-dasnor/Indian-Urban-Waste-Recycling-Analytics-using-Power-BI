@@ -100,7 +100,7 @@ The Overview dashboard provides an executive view of:
 - Year
 - Month
 
-![Dashboard Page 1](Dashboard_Page_1.png)
+![Network Performance Overview](Screenshots/Dashboard_Page_1_HD%20%281%29.png)
 
 ---
 
@@ -118,7 +118,7 @@ The second dashboard provides detailed analysis of:
 - Top 5 States by Recycling Rate
 - Total Waste Recycled by State and City
 
-![Dashboard Page 2](Dashboard_Page_2.png)
+![Customer Complaints Analysis](Screenshots/Dashboard_Page_2_HD.png)
 
 ---
 
